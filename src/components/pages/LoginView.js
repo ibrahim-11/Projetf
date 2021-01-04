@@ -64,15 +64,15 @@ class LoginView extends Component {
               </div>
 
               <div className="form-group d-flex justify-content-between">
-                <button type="reset" className="btn btn-secondary">
-                  Effacer
+                <button type="reset" className="btn btn-danger">
+                  clean
                 </button>
                 <button
                   type="submit"
                   className="btn btn-primary"
                   disabled={!(dirty && isValid)}
                 >
-                  Valider
+                  Validate
                 </button>
               </div>
             </Form>
