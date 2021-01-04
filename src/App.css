@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,25 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+/* .active {
+  border-bottom: 4px solid #61DAFB; 
+}
+.navbar {
+  padding-bottom: 0;
+}
+.container{
+  color: white;
+} */
+/* a{
+  text-decoration: none;
+} */
+
+.active {
+  border-bottom: 4px solid #61DAFB; 
+}
+.footer{
+  color: white;
 }
